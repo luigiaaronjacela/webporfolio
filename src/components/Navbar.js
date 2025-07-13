@@ -56,11 +56,6 @@ export default function Navbar() {
                 Contact
               </a>
             </li>
-            <li className="nav-item">
-              <Link to="/resume" className="nav-link fw-semibold fs-5 text-dark">
-                Resume
-              </Link>
-            </li>
           </ul>
         </div>
       </div>

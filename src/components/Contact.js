@@ -37,78 +37,78 @@ export default function Contact() {
 
           {/* Form & Socials */}
           <div className="col-md-6" data-aos="fade-left">
-            <form
-              action="https://formsubmit.co/luigiaaronjacela@gmail.com"
-              method="POST"
-            >
-              <input type="hidden" name="_subject" value="New message from portfolio!" />
-              <input type="hidden" name="_captcha" value="false" />
-              <input type="hidden" name="_template" value="box" />
-              <input
-                type="hidden"
-                name="_next"
-                value="https://luigiaaronjacela.vercel.app"
-              />
+           <form
+  action="https://formsubmit.co/luigiaaronjacela@gmail.com"
+  method="POST"
+>
+  <input type="hidden" name="_subject" value="New message from portfolio!" />
+  <input type="hidden" name="_captcha" value="false" />
+  <input type="hidden" name="_template" value="box" />
+  <input
+    type="hidden"
+    name="_next"
+    value="https://luigiaaronjacela.vercel.app"
+  />
 
-              <div className="mb-3">
-                <label className="form-label">Name</label>
-                <input
-                  type="text"
-                  name="name"
-                  className="form-control"
-                  placeholder="Your Name"
-                  required
-                />
-              </div>
-              <div className="mb-3">
-                <label className="form-label">Email</label>
-                <input
-                  type="email"
-                  name="email"
-                  className="form-control"
-                  placeholder="name@example.com"
-                  required
-                />
-              </div>
-              <div className="mb-3">
-                <label className="form-label">Message</label>
-                <textarea
-                  name="message"
-                  className="form-control"
-                  rows="4"
-                  placeholder="Your message here..."
-                  required
-                ></textarea>
-              </div>
+  <div className="mb-3">
+    <label className="form-label">Name</label>
+    <input
+      type="text"
+      name="name"
+      className="form-control"
+      placeholder="Your Name"
+      required
+    />
+  </div>
+  <div className="mb-3">
+    <label className="form-label">Email</label>
+    <input
+      type="email"
+      name="email"
+      className="form-control"
+      placeholder="name@example.com"
+      required
+    />
+  </div>
+  <div className="mb-3">
+    <label className="form-label">Message</label>
+    <textarea
+      name="message"
+      className="form-control"
+      rows="4"
+      placeholder="Your message here..."
+      required
+    ></textarea>
+  </div>
 
-              <div className="d-flex align-items-center gap-3">
-                <a
-                  href="https://facebook.com/luwijacela"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img src="/images/facebook.png" alt="Facebook" width="30" />
-                </a>
-                <a
-                  href="https://linkedin.com/in/luigi-aaron-jacela-791750173/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img src="/images/linkedin.png" alt="LinkedIn" width="30" />
-                </a>
-                <a
-                  href="https://github.com/luigiaaronjacela"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img src="/images/github.png" alt="GitHub" width="30" />
-                </a>
+  <div className="d-flex align-items-center gap-3">
+    <a
+      href="https://facebook.com/luwijacela"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img src="/images/facebook.png" alt="Facebook" width="30" />
+    </a>
+    <a
+      href="https://linkedin.com/in/luigi-aaron-jacela-791750173/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img src="/images/linkedin.png" alt="LinkedIn" width="30" />
+    </a>
+    <a
+      href="https://github.com/luigiaaronjacela"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img src="/images/github.png" alt="GitHub" width="30" />
+    </a>
 
-                <button type="submit" className="btn btn-primary ms-auto">
-                  Send
-                </button>
-              </div>
-            </form>
+    <button type="submit" className="btn btn-primary ms-auto">
+      Send
+    </button>
+  </div>
+</form>
           </div>
 
           {/* Resume CTA */}

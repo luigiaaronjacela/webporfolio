@@ -32,7 +32,7 @@ export default function Landing() {
               Hi! I'm Luigi Jacela
             </h1>
             <p className="lead mt-3">
-              I am currently working as a Design Engineer at Yazaki while actively pursuing full-stack development studies. My goal is to transition into a career in full-stack web development, where I can build dynamic, scalable, and user-focused applications. I am passionate about solving real-world problems through clean, efficient code and intuitive user experiences.
+              With a degree in Electronics Engineering (BSECE) and current experience as a Design Engineer at Yazaki, I have developed strong analytical and problem-solving skills. To shift into the IT field, I completed full-stack web development training with Zuitt. While my primary goal is to become a full-stack developer, I am also open to other roles related to IT where I can apply my technical skills, continue learning, and grow professionally in the tech industry.
             </p>
           </div>
 

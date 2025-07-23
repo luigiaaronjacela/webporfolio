@@ -32,7 +32,7 @@ export default function Landing() {
               Hi! I'm Luigi Jacela
             </h1>
             <p className="lead mt-3">
-              I am currently working as a Design Engineer at Yazaki and pursuing full-stack development studies. My goal is to transition into a full-stack development career, creating dynamic and scalable applications.
+              I am currently working as a Design Engineer at Yazaki while actively pursuing full-stack development studies. My goal is to transition into a career in full-stack web development, where I can build dynamic, scalable, and user-focused applications. I am passionate about solving real-world problems through clean, efficient code and intuitive user experiences.
             </p>
           </div>
 

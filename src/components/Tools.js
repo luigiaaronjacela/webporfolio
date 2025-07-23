@@ -21,7 +21,6 @@ export default function Tools() {
       { src: "/images/node.png", alt: "Node.js" },
     ],
     other: [
-      { src: "/images/heroku.png", alt: "Heroku" },
       { src: "/images/git.png", alt: "Git" },
       { src: "/images/postman.png", alt: "Postman" },
       { src: "/images/sublime.png", alt: "Sublime" },

@@ -9,57 +9,46 @@ export default function Projects() {
 
   const projectData = [
     {
-      title: "E-commerce API Documentation",
+      title: "Personal Portfolio Website ",
       img: "./images/card1.png",
       description:
-        "Dynamic E-Commerce Workflow Management. The system features dynamic routes for order processing, real-time inventory updates, and secure user authentication.",
+        " Designed and developed a responsive personal portfolio to highlight professional projects, skills, and achievements. The site is optimized for mobile, tablet, and desktop viewing, providing a clean and engaging user experience. It serves as a central hub to showcase development capabilities and personal brand identity.",
+      link: "https://webporfolio-6419.vercel.app/",
+    },
+    {
+      title: "E-Commerce Workflow Management System",
+      img: "../images/card2.png",
+      description:
+        " Developed a comprehensive RESTful API for an E-Commerce Workflow Management system, built with Node.js, Express, and MongoDB. The backend is designed to handle dynamic routing, secure user authentication, and efficient product and order management. This Postman documentation provides an organized, developer-friendly reference for all endpoints and usage instructions.",
       link: "https://documenter.getpostman.com/view/44619369/2sB2xCgos1",
     },
     {
-      title: "Course Booking API Documentation",
-      img: "../images/card2.png",
-      description:
-        "RESTful API for managing course enrollments, featuring user registration, authentication, and retrieval of user details.",
-    },
-    {
-      title: "Course Booking App",
+      title: "E-Commerce Platform Development",
       img: "./images/card3.png",
       description:
-        "A MERN-stack course enrollment system featuring user registration, authentication, and profile management.",
+        "•  A full-featured e-commerce workflow management system built using React for the frontend and a scalable Node.js/Express backend with MongoDB integration. The platform supports user registration, product browsing, cart management, and order processing. Admin users can manage product listings and view orders, enabling seamless business operations.",
+      link:"https://b546-csp3.vercel.app/"
     },
     {
-      title: "E-commerce App",
+      title: "Static Educational Hub",
       img: "./images/card4.png",
       description:
-        "MERN E-Commerce Platform with product catalog, secure checkout, and admin dashboard.",
+        " Built a visually engaging and fully static educational website using HTML and CSS.CarHub demonstrates foundational front-end development skills and showcases a basic catalogue-style layout—ideal for showcasing vehicles or related educational content. The project highlights your ability to translate design into functional, responsive web pages.",
+      link:"https://luigiaaronjacela.github.io/EducationalCarHub/"
     },
     {
-      title: "Airline Booking System Mockup",
+      title: "MERN Movie",
       img: "./images/card5.png",
       description:
-        "Conceptual design showcasing UI for flight search, seat selection, and booking confirmation.",
+        " Built a visually engaging and fully static educational website using HTML and CSS.CarHub demonstrates foundational front-end development skills and showcases a basic catalogue-style layout—ideal for showcasing vehicles or related educational content. The project highlights your ability to translate design into functional, responsive web pages.",
+      link:"https://movie-app-iota-brown-13.vercel.app/"
     },
     {
-      title: "Airline Booking System Prototype",
+      title: "Full-Stack Blog Platform",
       img: "./images/card6.png",
       description:
-        "Interactive prototype simulating flight search, reservation, payment, and real-time ticketing.",
-    },
-    {
-      title: "Short Courses Capstone",
-      img: "./images/card7.png",
-      description:
-        "Portfolio website using HTML, CSS, Bootstrap with responsive layout, lightbox gallery, and animations.",
-    },
-    {
-      title: "Short Courses Capstone",
-      img: "./images/card8.png",
-      description: "Placeholder for your Short courses capstone project.",
-    },
-    {
-      title: "Short Courses Capstone",
-      img: "./images/card9.png",
-      description: "Placeholder for your Short courses capstone project.",
+        " • Built a full-stack blogging platform that allows users to create, read, update, and delete blog posts, as well as comment on posts. The app supports both regular users and admins, with secure JWT-based authentication and role-based access. The UI is clean, responsive, and optimized for user engagement and readability",
+      link:"https://blog-app-react-one.vercel.app/"
     },
   ];
 

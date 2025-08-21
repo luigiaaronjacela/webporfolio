@@ -12,7 +12,7 @@ export default function Resume() {
 
       <div className="d-flex justify-content-center mb-4">
         <iframe
-          src="/resume/luigi-resume.pdf"
+          src="/resume/Resume_LuigiAaronJacela.pdf"
           title="Luigi Resume"
           width="100%"
           height="600px"

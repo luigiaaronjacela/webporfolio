@@ -8,7 +8,6 @@ export default function Footer() {
     >
       <div className="container text-center">
         <h5 className="fw-bold mb-1" style={{ color: '#1f3c88' }}>Luigi Aaron Jacela</h5>
-        <p className="mb-1">Aspiring Full Stack Developer</p>
         <p className="mb-0">&copy; {new Date().getFullYear()} All rights reserved.</p>
       </div>
     </footer>
